@@ -1,0 +1,32 @@
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link, a:visited {
+  color: #283747;
+}
+
+a:focus, a:hover {
+     text-decoration: none;
+     color: #85929E;
+  border-bottom: none;
+}
+
+a:active {
+     text-decoration: none;
+color: #85929E;
+}
+
+h1 {
+
+    color: #333333;
+}
+
+h3 {
+    color: #333333;
+}
+
+
+/* trouble  top right bottom left */
