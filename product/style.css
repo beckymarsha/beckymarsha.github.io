@@ -24,9 +24,19 @@ h1 {
     color: #333333;
 }
 
-h3 {
+h2 {
     color: #333333;
 }
+
+h3 {
+
+  color: #333333;
+}
+
+ .pull-right {
+            margin-bottom: 5px;
+            margin-right: 5px;
+        }
 
 
 /* trouble  top right bottom left */
